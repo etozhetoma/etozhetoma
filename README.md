@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=etozhetoma8&&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=ffffff" alt="etozhetoma's Github Stats"><img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etozhetoma&layout=compact&hide_border=true&bg_color=ffffff" alt="etozhetoma's Github Stats">
 <!--
 **etozhetoma/etozhetoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
